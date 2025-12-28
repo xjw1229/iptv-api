@@ -38,7 +38,7 @@ open_url_info = True
 # 网络配置（适合Docker）
 #app_host = http://0.0.0.0
 #app_port = 8000
-#cdn_url =
+#cdn_url =https://cdn.jsdeliver.net/gh
 
 # 数量控制配置
 hotel_num = 15
